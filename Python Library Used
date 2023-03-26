@@ -1,0 +1,12 @@
+# Restaurant-Management-with-Billing-System
+Python Tkinter is a standard Python library for creating graphical user interfaces (GUI) in desktop applications. Tkinter provides a set of tools for building graphical
+interfaces with widgets like buttons, labels, menus, text boxes, and many more.
+
+Tkinter is built on top of the Tk GUI toolkit, which is cross-platform and provides a set of common widgets and tools for creating GUIs. Tkinter is included with most 
+Python installations, so it is readily available for developers to use without installing additional libraries.
+
+Some key features of Tkinter include its simplicity, ease of use, and cross-platform compatibility. It also provides a rich set of widgets that can be easily customized 
+and manipulated to create a variety of GUIs.
+
+Overall, Python Tkinter is a powerful library for building desktop applications with a graphical interface in Python. It is widely used in a variety of fields, including
+scientific computing, data analysis, and education.
